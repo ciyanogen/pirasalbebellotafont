@@ -1,8 +1,8 @@
 # Magisk Bellota Font
 
 ## Versions ##
-* <a href="https://dl2.pushbulletusercontent.com/G9wdbzbZPtmglTiyBepx62nh89wxR4fQ/Bellota_Font-2.0C.zip">2.1C</a> Font more condensed
-* <a href="https://dl2.pushbulletusercontent.com/g3ydnwfl2ItFVt24gaflQ9THUQzQNYpL/Bellota_Font-2.0R.zip">2.1R</a> Font more regular
+* <a href="https://dl2.pushbulletusercontent.com/ad1560YMpZcikoNM8hrLpydxXs7S9blh/Bellota_Font-2.1C.zip">2.1C</a> Font more condensed
+* <a href="https://dl2.pushbulletusercontent.com/P45epXRQ23lSVALooZ7WkrIQOWWlm87w/Bellota_Font-2.1R.zip">2.1R</a> Font more regular
 
 ## Testing devices ##
 * [Tesing Device] Google Nexus 4 Android Lollipop/Oreo
