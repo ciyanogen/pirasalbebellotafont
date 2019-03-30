@@ -1,13 +1,12 @@
 # Magisk Bellota Font
 
 ## Versions ##
-* <a href="https://dl2.pushbulletusercontent.com/ad1560YMpZcikoNM8hrLpydxXs7S9blh/Bellota_Font-2.1C.zip">2.1C</a> Font more condensed
-* <a href="https://dl2.pushbulletusercontent.com/P45epXRQ23lSVALooZ7WkrIQOWWlm87w/Bellota_Font-2.1R.zip">2.1R</a> Font more regular
+* <a href="https://github.com/Magisk-Modules-Repo/pirasalbebellotafont/releases">Releases</a>: download the version you prefer
 
 ## Testing devices ##
 * [Tesing Device] Google Nexus 4 Android Lollipop/Oreo
 * [Tesing Device] Google Nexus 6 Android Marshmallow
-* [Tesing Device] OnePlus 5 Android Nougat/Oreo
+* [Tesing Device] OnePlus 5 Android Nougat/Oreo/Pie
 
 ## Known bug ##
 * Lockscreen colon may not show in some rom (e.g. <a href="https://lh3.googleusercontent.com/ld4uuxiQGqWRzEncHngRQm1mnH3tkoK_nPoqhOhlWYMK2xC3_88oGE180Rb8JrjDiaexqxqTfzQZCUooqNCnjCrnrJg=s341">Pixel Experience</a>). You can use a <a href="https://play.google.com/store/apps/details?id=substratum.xperia.lockscreens&hl=en">substratum</a> theme to hide it
@@ -24,6 +23,9 @@
 <img src="https://i.imgur.com/NvuEr4Q.jpg" height="519" width="291" alt="Screenshot"><img src="https://dl2.pushbulletusercontent.com/inW6pQiDgMhhKG16HwuV9DVFNcq3fw5H/Screenshot_20171110-191208.jpg" height="519" width="291" alt="Screenshot">
 
 ## Changelog ##
+#### 2.2 ####
+* Update magisk module template
+
 #### 2.1R ####
 * Font more regular
 * Fix config
