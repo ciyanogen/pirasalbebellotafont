@@ -4,9 +4,9 @@
 * <a href="https://github.com/Magisk-Modules-Repo/pirasalbebellotafont/releases">Releases</a>: download the version you prefer
 
 ## Testing devices ##
-* [Tesing Device] Google Nexus 4 Android Lollipop/Oreo
-* [Tesing Device] Google Nexus 6 Android Marshmallow
-* [Tesing Device] OnePlus 5 Android Nougat/Oreo/Pie
+* Google Nexus 4 Android Lollipop/Oreo
+* Google Nexus 6 Android Marshmallow
+* OnePlus 5 Android Nougat/Oreo/Pie
 
 ## Known bug ##
 * Lockscreen colon may not show in some rom (e.g. <a href="https://lh3.googleusercontent.com/ld4uuxiQGqWRzEncHngRQm1mnH3tkoK_nPoqhOhlWYMK2xC3_88oGE180Rb8JrjDiaexqxqTfzQZCUooqNCnjCrnrJg=s341">Pixel Experience</a>). You can use a <a href="https://play.google.com/store/apps/details?id=substratum.xperia.lockscreens&hl=en">substratum</a> theme to hide it
